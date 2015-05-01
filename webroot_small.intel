@@ -1,5 +1,0 @@
-#fields	indicator	indicator_type	meta.source	meta.do_notice
-1.0.129.174	Intel::ADDR	Webroot	Type=256
-1.0.159.214	Intel::ADDR	Webroot	Type=16
-1.0.176.29	Intel::ADDR	Webroot	Type=1
-
